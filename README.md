@@ -3,7 +3,7 @@
 I'm a developer with 3 years of experience, learning as I go
 
 
-A bit about what I can do:
+#### A bit about what I can do:
 - **Platforms**: Web, Minecraft, Discord
 - **Languages**: Java, Javascript, Python
 - **Databases**: MySQL, MongoDB
