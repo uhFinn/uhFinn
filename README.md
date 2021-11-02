@@ -8,7 +8,7 @@ I'm a developer with 3 years of experience, learning as I go
 - **Languages**: Java, Javascript, Python
 - **Databases**: MySQL, MongoDB
 
-# 📈 **Stats**
+#### 📈 **Stats**
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=uhFinn&count_private=true&show_icons=true&hide=contribs&theme=dracula)
 <!--
 **uhFinn/uhFinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
