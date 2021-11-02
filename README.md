@@ -1,5 +1,10 @@
-### Hi there 👋
+### 👋 Hey there! I'm uhFinn
 
+<!--
+A bit about me:
+- **Languages**: Java, Javascript, Python
+-->
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=uhFinn&count_private=true&show_icons=true&hide=contribs)
 <!--
 **uhFinn/uhFinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
