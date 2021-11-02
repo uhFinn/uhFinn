@@ -3,7 +3,9 @@
 I'm a developer with 3 years of experience, learning as I go
 
 A bit about me:
+- **Platforms**: Web, Minecraft, Discord
 - **Languages**: Java, Javascript, Python
+- **Databases**: MySQL, MongoDB
 
 # 📈 **Stats**
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=uhFinn&count_private=true&show_icons=true&hide=contribs&theme=dracula)
