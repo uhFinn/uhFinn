@@ -1,10 +1,10 @@
 ### 👋 Hey there! I'm uhFinn
 
 I'm a developer with 3 years of experience, learning as I go
-<!--
+
 A bit about me:
 - **Languages**: Java, Javascript, Python
--->
+
 # 📈 **Stats**
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=uhFinn&count_private=true&show_icons=true&hide=contribs&theme=dracula)
 <!--
