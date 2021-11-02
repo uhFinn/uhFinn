@@ -1,5 +1,6 @@
 ### 👋 Hey there! I'm uhFinn
 
+I'm a developer with 3 years of experience, learning as I go
 <!--
 A bit about me:
 - **Languages**: Java, Javascript, Python
